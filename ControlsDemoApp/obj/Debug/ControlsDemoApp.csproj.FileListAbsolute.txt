@@ -1,0 +1,17 @@
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\bin\Debug\ControlsDemoApp.exe.config
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\bin\Debug\ControlsDemoApp.exe
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\bin\Debug\ControlsDemoApp.pdb
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.csproj.AssemblyReference.cache
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.Properties.Resources.resources
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.csproj.GenerateResource.cache
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.exe
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.pdb
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.fNhanVien.resources
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\bin\Debug\EPPlus.dll
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\bin\Debug\EPPlus.xml
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\thandat\source\repos\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.csproj.CopyComplete
